@@ -16,7 +16,11 @@
 /node_modules
 /yarn-error.log
 
+.bash_history
+.byebug_hist
 .byebug_history
+.pry_history
+.guard_history
 
 /.idea/
 database.yml
